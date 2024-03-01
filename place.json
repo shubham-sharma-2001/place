@@ -1,0 +1,104 @@
+{
+  "places": [
+    {
+      "name": "Mount Everest",
+      "image_url": "https://i.pinimg.com/736x/9e/bd/e8/9ebde88a527075602462ba31cb9b87e5--everest-mountain-mount-everest.jpg",
+      "country": "Nepal",
+      "continent": "Asia"
+    },
+
+   
+    {
+      "name": "Taj Mahal",
+      "image_url": "https://thumbs.dreamstime.com/b/taj-mahal-reflecting-pool-agra-uttar-pradesh-india-was-build-emperor-shah-jahan-as-memorial-his-second-wife-91410012.jpg",
+      "country": "India",
+      "continent": "Asia"
+    },
+    {
+      "name": "Santorini",
+      "image_url": "https://i.pinimg.com/originals/96/2d/a9/962da9cb4c5f2a8cd41a87aff728c208.jpg",
+      "country": "Greece",
+      "continent": "Europe"
+    },
+  
+    {
+      "name": "Pyramids of Giza",
+      "image_url": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/great-pyramid-khafre-giza-cairo-cityscape-vertical-pius-lee.jpg",
+      "country": "Egypt",
+      "continent": "Africa"
+    },
+    {
+      "name": "Petra",
+      "image_url": "https://images.fineartamerica.com/images-medium-large/jordan-petra-the-treasury-nevada-wier.jpg",
+      "country": "Jordan",
+      "continent": "Asia"
+    },
+ 
+ 
+    {
+      "name": "Angkor Wat",
+      "image_url": "https://thumbs.dreamstime.com/b/vertical-shot-ancient-buddhist-temples-angkor-wat-under-blue-cloudy-sky-sunny-day-vertical-shot-ancient-buddhist-234539792.jpg",
+      "country": "Cambodia",
+      "continent": "Asia"
+    },
+    {
+      "name": "Venice",
+      "image_url": "https://i.pinimg.com/originals/d8/af/f8/d8aff8185cbe29e5468e35548c4d6542.jpg",
+      "country": "Italy",
+      "continent": "Europe"
+    },
+    {
+      "name": "Great Wall of China",
+      "image_url": "https://thumbs.dreamstime.com/b/china-great-wall-vertical-day-time-panorama-stone-tower-top-towards-distant-chain-fortification-segments-stairways-51656409.jpg",
+      "country": "China",
+      "continent": "Asia"
+    },
+  
+
+    {
+      "name": "Victoria Falls",
+      "image_url": "https://www.xtrafondos.com/wallpapers/vertical/cascadas-victoria-en-zambia-2576.jpg",
+      "country": "Zimbabwe",
+      "continent": "Africa"
+    },
+
+    {
+      "name": "Antelope Canyon",
+      "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/1b/99/78/photo0jpg.jpg",
+      "country": "United States",
+      "continent": "North America"
+    },
+    {
+      "name": "Kyoto",
+      "image_url": "https://d3e1m60ptf1oym.cloudfront.net/1d3390ab-392a-4440-8a7d-33c6ebd1adef/M28274-FR-01_uxga.jpg",
+      "country": "Japan",
+      "continent": "Asia"
+    },
+
+  
+    {
+      "name": "Halong Bay",
+      "image_url": "https://i.pinimg.com/originals/83/39/e3/8339e3c19c9dbc7c510a39560b84eddf.jpg",
+      "country": "Vietnam",
+      "continent": "Asia"
+    },
+    {
+      "name": "Marrakech",
+      "image_url": "https://thumbs.dreamstime.com/b/koutoubia-mosque-kutubiyya-largest-marrakesh-morocco-78032341.jpg",
+      "country": "Morocco",
+      "continent": "Africa"
+    },
+    {
+      "name": "Mount Fuji",
+      "image_url": "https://i.pinimg.com/originals/c3/f5/22/c3f5228edb2f2d1f2e741109472af0d4.png",
+      "country": "Japan",
+      "continent": "Asia"
+    },
+    {
+      "name": "Iguazu Falls",
+      "image_url": "https://thumbs.dreamstime.com/b/famous-natural-attraction-san-andres-fall-iguazu-national-park-argentina-sunny-summer-day-vertical-view-159386085.jpg",
+      "country": "Argentina",
+      "continent": "South America"
+    }
+  ]
+}
